@@ -1,4 +1,4 @@
-module sigs.k8s.io/kustomize/api
+module github.com/williepaul/kustomize/api
 
 go 1.15
 
